@@ -12,7 +12,7 @@
 |JS||||
 |Php|||||
 
-### Chaque script dois etre accompagne de :
+### Chaque script doit etre accompagne de :
 
   - De commentaire,
   - D'exemple de cas d'utilisation,
