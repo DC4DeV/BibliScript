@@ -1,5 +1,6 @@
 # BlibliScript
 ## Petite bibliotheque de script d'usage courant
+`les majs apparaissent directement sur discord`
 
 ### Schema de structuration de ce repo
 
